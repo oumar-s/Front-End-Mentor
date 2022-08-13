@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/oumar-s/Product-Preview-Card-Component)
-- Live Site URL: [](https://oumar-s.github.io/Product-Preview-Card-Component/)
+- Solution URL: ![](https://github.com/oumar-s/Product-Preview-Card-Component)
+- Live Site URL: ![](https://oumar-s.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
@@ -72,12 +72,13 @@ see some example code below:
     border-top-right-radius: 10px;
     min-width: 290px;
 }
+```
 
 ### Continued development
 Moving forward, I will continue to improve my HTML and CSS skills. Additionally, I plan on improving my js skill by doing js related projects.
 
 ### Useful resources
-- [Example resource 1](https://www.example.com) - This course is great for learning responsive design or intermediate CSS in general.
+- [Codecademy Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css) - This course is great for learning responsive design or intermediate CSS in general.
 
 
 ## Author
