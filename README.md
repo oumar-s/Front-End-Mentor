@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![](https://github.com/oumar-s/Product-Preview-Card-Component)
-- Live Site URL: ![](https://oumar-s.github.io/Product-Preview-Card-Component/)
+- Solution URL: [Solution Code](https://github.com/oumar-s/Product-Preview-Card-Component)
+- Live Site URL: [Live Site](https://oumar-s.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
